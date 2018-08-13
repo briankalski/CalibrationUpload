@@ -1,0 +1,9 @@
+c:\users\brian\documents\visual studio 2012\Projects\CalibrationUpload\CalibrationUpload\bin\Debug\CalibrationUpload.exe.config
+c:\users\brian\documents\visual studio 2012\Projects\CalibrationUpload\CalibrationUpload\bin\Debug\CalibrationUpload.exe
+c:\users\brian\documents\visual studio 2012\Projects\CalibrationUpload\CalibrationUpload\bin\Debug\CalibrationUpload.pdb
+c:\users\brian\documents\visual studio 2012\Projects\CalibrationUpload\CalibrationUpload\obj\Debug\CalibrationUpload.csprojResolveAssemblyReference.cache
+c:\users\brian\documents\visual studio 2012\Projects\CalibrationUpload\CalibrationUpload\obj\Debug\CalibrationUpload.Form1.resources
+c:\users\brian\documents\visual studio 2012\Projects\CalibrationUpload\CalibrationUpload\obj\Debug\CalibrationUpload.Properties.Resources.resources
+c:\users\brian\documents\visual studio 2012\Projects\CalibrationUpload\CalibrationUpload\obj\Debug\CalibrationUpload.csproj.GenerateResource.Cache
+c:\users\brian\documents\visual studio 2012\Projects\CalibrationUpload\CalibrationUpload\obj\Debug\CalibrationUpload.exe
+c:\users\brian\documents\visual studio 2012\Projects\CalibrationUpload\CalibrationUpload\obj\Debug\CalibrationUpload.pdb
